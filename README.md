@@ -1,18 +1,18 @@
 # Devops_109
 
-## Título
+# Título
 [Imagen Título](/imgtitulo)
 
-## Indice
-# [Introduccion](/indice/introduccion)
+# Indice
+## [Introduccion](/indice/introduccion)
 
-# Administrador de sistemas
+## [Administrador de sistemas]()
 
-# Desarrollador
+## [Desarrollador]()
 
-# Devops
+## [Devops]()
 
-## Referencias
+# Referencias
 
-## Licencia
+# Licencia
   
