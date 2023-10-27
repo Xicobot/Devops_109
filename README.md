@@ -1,12 +1,10 @@
 # Devops_109
 
 ## Título
-[Imagen Título](Devops_109/imgtitulo)
+[Imagen Título](/imgtitulo)
 
 ## Indice
-# Introduccion
-
-
+# [Introduccion](/indice/introduccion)
 
 # Administrador de sistemas
 
