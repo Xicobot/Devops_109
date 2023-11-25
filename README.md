@@ -1,7 +1,7 @@
 # Devops_109
 
 # Título
-![Imagen Título](/Devops_109/imgtitulo.png)
+![Imagen Título](imgtitulo.png)
 
 # Indice
 ## [Introduccion](/indice/introduccion)
