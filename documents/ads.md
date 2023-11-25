@@ -13,6 +13,7 @@ Un adminsitrador de sistemas es el que configurar la red y mantener el sistema i
 -  La supervision, el mantenimiento y la actualizacion de los sistemas de trabajo.
 -  El desarrollo de politicas de almacenamiento, conservacion y borrado de datos.
 -  La resolucion de problemas de software y sistemas.
--  La vigilancia de seguridad *(instalando firewalls, spywalls, etc...)* 
+-  La vigilancia de seguridad *(instalando firewalls, spywalls, etc...)*
+-  Crear y gestionar una base de datos.
 
 
