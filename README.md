@@ -1,7 +1,5 @@
-\begin{center}
-Devops_109
-\end{center}
-
+# Devops
+---
 ![Imagen Título](/img/imgtitulo.png)
 
 # Indice
@@ -12,8 +10,8 @@ Devops_109
 ## [Desarrollador](/documents/developer.md)
 
 ## [Devops](/documents/devops.md)
-
+---
 # Referencias
-
+[UNIR](https://www.unir.net/ingenieria/revista/administrador-sistemas/)
 # Licencia
   
