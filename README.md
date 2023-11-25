@@ -10,8 +10,9 @@
 ## [Desarrollador](/documents/developer.md)
 
 ## [Devops](/documents/devops.md)
----
+
 # Referencias
+---
 [UNIR](https://www.unir.net/ingenieria/revista/administrador-sistemas/)
 # Licencia
-  
+---
