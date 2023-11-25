@@ -1,16 +1,15 @@
 # Devops_109
 
-# Título
-![Imagen Título](imgtitulo.png)
+![Imagen Título](/img/imgtitulo.png)
 
 # Indice
-## [Introduccion](/indice/introduccion)
+## [Introduccion](/documents/introduccion.md)
 
-## [Administrador de sistemas]()
+## [Administrador de sistemas](/documents/ads.md)
 
-## [Desarrollador]()
+## [Desarrollador](/documents/developer.md)
 
-## [Devops]()
+## [Devops](/documents/devops.md)
 
 # Referencias
 
