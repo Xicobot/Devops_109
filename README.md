@@ -1,4 +1,6 @@
+\begin{center}
 # Devops_109
+\end{center}
 
 ![Imagen Título](/img/imgtitulo.png)
 
