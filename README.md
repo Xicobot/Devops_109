@@ -1,9 +1,8 @@
-# Devops
+# Devops introduccion
 ---
 ![Imagen Título](/img/imgtitulo.png)
 
 # Indice
-## [Introduccion](/documents/introduccion.md)
 
 ## [Administrador de sistemas](/documents/ads.md)
 
